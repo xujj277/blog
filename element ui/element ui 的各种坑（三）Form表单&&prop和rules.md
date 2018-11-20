@@ -21,7 +21,7 @@ loginRules: {
         password: [{ required: true, message: '请输入您的密码', trigger: 'blur' }]
 }
 ```
-- *注意事项：*
+- * 注意事项： *
 ![](https://i.loli.net/2018/11/20/5bf41b6a53060.png)
 这些字段必须是相同的！！！不相同的话，表单会无法验证！！！（真滴坑……）
 
